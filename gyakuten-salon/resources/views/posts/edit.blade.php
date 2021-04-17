@@ -36,9 +36,7 @@
                             name="body"
                             rows="4"
                             class="form-control"
-                        >
-                            {{$post->body}}
-                        </textarea>
+                        >{{$post->body}}</textarea>
                     </div>
                     
                     <div class="mt-5">
